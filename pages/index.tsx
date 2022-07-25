@@ -16,8 +16,6 @@ export default function Home() {
             Romromromrom ❤️
         </p>
       </main>
-
-      <Footer />
     </div>
   )
 }
